@@ -17,11 +17,16 @@
 
 1.目标函数
 
+主要目标
+1)配送车辆数最少
 
-
+次要目标
+2)配送线路最短
+![image](https://images.gitee.com/uploads/images/2020/0201/050145_03b11599_5189209.jpeg)
 
 ***
 2.约束条件
+![image](https://images.gitee.com/uploads/images/2020/0201/050618_68acd860_5189209.jpeg)
 
 1)任意路线货物总量不超过车辆容量                     (3)
 
