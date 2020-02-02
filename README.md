@@ -44,11 +44,11 @@
 
 
 2)次要目标:配送线路最短
-![image](https://images.gitee.com/uploads/images/2020/0202/115241_24a28c32_5189209.jpeg)
+![image](https://images.gitee.com/uploads/images/2020/0202/115958_519a4538_5189209.jpeg)
 
 ***
 2.约束条件
-![image](https://images.gitee.com/uploads/images/2020/0202/115255_78c003da_5189209.jpeg)
+![image](https://images.gitee.com/uploads/images/2020/0202/120021_8c0d2dbb_5189209.jpeg)
 
 1)任意路线货物总量不超过车辆容量                     (4)
 
