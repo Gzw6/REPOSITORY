@@ -1,5 +1,10 @@
 # FWWB
-## 一、[A12赛题要求](http://www.fwwb.org.cn/topic/show/2fcdcc6a-2d7a-41ee-ba40-acf5d3b68378)
+
+## 一、答疑和资料
+
+1)[答疑汇总](http://note.youdao.com/noteshare?id=d0ac87df151de147f2125cd773b8c3c4&sub=8AE1083ACA0B4127A42CC91729C98DA5)
+
+## 二、[A12赛题要求](http://www.fwwb.org.cn/topic/show/2fcdcc6a-2d7a-41ee-ba40-acf5d3b68378)
 1.以下为概括内容：
 
 1)所有客户的位置距离固定
@@ -18,9 +23,7 @@
 
 8)通过算法和程序计算需要的车辆数，最优路径及配送时间(三个目标函数)
 
-## 二、答疑和资料
 
-1)[答疑汇总](http://note.youdao.com/noteshare?id=d0ac87df151de147f2125cd773b8c3c4&sub=8AE1083ACA0B4127A42CC91729C98DA5)
 
 ## 三、建模工作（对照A12开发要求展开）
 
@@ -67,6 +70,6 @@
   
 
 ***
-3.求解
+3.Jmetal求解
 
 
