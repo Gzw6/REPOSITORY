@@ -6,16 +6,18 @@ import java.util.ArrayList;
 import org.uma.jmetal.problem.impl.AbstractDoubleProblem;
 import org.uma.jmetal.solution.DoubleSolution;
 
-public class Problem extends AbstractDoubleProblem{
+public class VRPProblem extends AbstractDoubleProblem{
 	
-	private Problem problem;
+	VRPProblem problem;
+	int k;//输入变量，最多可使用的车辆数
+	double[][] vehicleInfoMatrix;// K下标从1开始到K，0列表示车的最大载重量，1列表示车行驶的最大距离，2列表示速度
 	
-	public Problem() {
+	public VRPProblem() {
 		this(30);
 	}
 
 	//该构造函数包含设置决策变量个数 优化目标函数个数 约束条件个数 还可以命名问题
-	public Problem(Integer numberOfVariables) {
+	public VRPProblem(Integer numberOfVariables) {
 		setNumberOfVariables(numberOfVariables);
 		setNumberOfObjectives(2);
 		setNumberOfConstraints(5);
@@ -30,12 +32,9 @@ public class Problem extends AbstractDoubleProblem{
 		lowerLimit.add(0.0);
 		upperLimit.add(1.0);
       }
-    
-    
-    setLowerLimit(lowerLimit);
-    setUpperLimit(upperLimit);
+    	setLowerLimit(lowerLimit);
+    	setUpperLimit(upperLimit);
 	}
-
 
 	//该函数包含了优化目标函数的实现过程，由Algorithm.evlataionPopulation()调用
 	@Override
