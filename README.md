@@ -4,7 +4,7 @@
 
 1)[答疑汇总](http://note.youdao.com/noteshare?id=d0ac87df151de147f2125cd773b8c3c4&sub=8AE1083ACA0B4127A42CC91729C98DA5)
 
-## 二、算法选择
+## 二、算法选择参考资料
 
 1)[美团的运筹优化实战](https://mp.weixin.qq.com/s/HAKZ_liwSRDmZaFNxwvuwQ)
 
