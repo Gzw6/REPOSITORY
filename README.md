@@ -4,7 +4,11 @@
 
 1)[答疑汇总](http://note.youdao.com/noteshare?id=d0ac87df151de147f2125cd773b8c3c4&sub=8AE1083ACA0B4127A42CC91729C98DA5)
 
-## 二、[A12赛题要求](http://www.fwwb.org.cn/topic/show/2fcdcc6a-2d7a-41ee-ba40-acf5d3b68378)
+## 二、算法选择
+
+1)[美团的运筹优化实战](https://mp.weixin.qq.com/s/HAKZ_liwSRDmZaFNxwvuwQ)
+
+## 三、[A12赛题要求](http://www.fwwb.org.cn/topic/show/2fcdcc6a-2d7a-41ee-ba40-acf5d3b68378)
 1.以下为概括内容：
 
 1)所有客户的位置距离固定
